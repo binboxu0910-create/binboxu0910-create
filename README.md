@@ -10,7 +10,7 @@ WildPath explores how individual wildlife observations can become structured inc
 
 [Explore the live demo](https://wildpath-web.binboxu0910.chatgpt.site/) · [Read the methodology](https://wildpath-web.binboxu0910.chatgpt.site/methodology)
 
-> The demo is password-protected. For application review, please use the access password provided with my application. The source repository remains private.
+> The demo is publicly accessible—no password or account is required. The source repository remains private. Reports and review decisions stay in each visitor's browser; live AI calls are restricted to separately authorized server clients.
 
 ### From observations to insights
 
@@ -32,7 +32,7 @@ WildPath explores how individual wildlife observations can become structured inc
 
 **Built with:** TypeScript · React · Next.js-compatible Vinext runtime · MapLibre GL JS · OpenFreeMap · Cloudflare-compatible Workers · optional TypeSafe/Jev integration.
 
-**Quality checks:** 36 automated tests, TypeScript checking, linting, and GitHub Actions CI at the time of this showcase.
+**Quality checks:** Automated regression tests, TypeScript checking, linting, and GitHub Actions CI.
 
 **Scope:** This is a personal portfolio prototype using synthetic Los Angeles-area data. Records are stored in each browser, not a shared production database. WildPath does not dispatch responders or contact a wildlife agency.
 
